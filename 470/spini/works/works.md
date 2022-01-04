@@ -103,7 +103,7 @@ Ovviamente il bozzello piano andrebbe sostituito con uno nuovo e io prenderei il
 
 ### Miglioramenti circuito della ghinda
 
-lo strozzatore a ganasce della ghinda, seppur funzionante, mi sembra vecchiotto. Per sicurezza lo sostituirei con il 25.10 della viadana in lega leggera
+lo strozzatore a ganasce della ghinda, seppur funzionante, mi sembra vecchiotto. Per sicurezza lo sostituirei con il 25.50 della viadana in lega leggera
 
 ![](img/viadana_25.50.jpg)
 

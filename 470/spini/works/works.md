@@ -92,7 +92,7 @@ Pertanto proverei a fare tutto artigianalmente utilizzando una cosa del genere c
 
 Prodotto su [Amazon](https://www.amazon.it/Angolari-Bolatus-Bretelle-Giunzione-Parentesi/dp/B08BFMF3ZS/ref=sr_1_10?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1RWB3QSBQG4W7&keywords=Staffa+angolare+in+acciaio+inossidabile+20x20+10+pezzi&qid=1641291586&sprefix=staffa+angolare+in+acciaio+inossidabile+20x20+10+pezzi%2Caps%2C93&sr=8-10).
 
-e come strozzatore il 25.10 della viadana
+e come strozzatore il 25.10 della viadana in composito
 
 ![](img/viadana_25.10.jpg)
 
@@ -101,3 +101,12 @@ Ovviamente il bozzello piano andrebbe sostituito con uno nuovo e io prenderei il
 ![](img/viadana_11.71.jpg)
 
 
+### Miglioramenti circuito della ghinda
+
+lo strozzatore a ganasce della ghinda, seppur funzionante, mi sembra vecchiotto. Per sicurezza lo sostituirei con il 25.10 della viadana in lega leggera
+
+![](img/viadana_25.50.jpg)
+
+### Altri Miglioramenti
+
+Con gli strozzatori avanzati, quello dell'attuale ghinda e quelli dell'attuale circuito del wang, sostituirei fli strozzatori in linea, sulla scassa della deriva, per carica alto e cunningam

@@ -59,6 +59,11 @@ https://mureadritta.it/negozio/index.php?main_page=product_info&cPath=103_302_44
 
 **10.40EURx2**
 
+## Ponticello nero strozzatore piccolo 
+>Viadana 25.15
+
+**3,25x5**
+
 ## CL241 Racing Sail Line Cleat (Port)
 
 ![](https://www.clamcleat.com/pub/media/catalog/product/cache/ce938bb9c6a35d216d481fdfb2d29dfc/c/l/cleat-cl241-1200x1200_1.jpg)

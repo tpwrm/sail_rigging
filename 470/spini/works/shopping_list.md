@@ -43,6 +43,7 @@ https://mureadritta.it/negozio/attrezzatura-vela/landine-perni-coppiglie/perni-e
 **0.35EURx2**
 
 ### STROZZATORE IN LEGA DI ALLUMINIO PICCOLO
+>Viadana 25.50
 
 ![](https://mureadritta.it/negozio/images/strozzpicc25.50.jpg)
 
